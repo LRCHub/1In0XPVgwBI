@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "Gang Over Luv",
+  "base_artist": "Brent Faiyaz",
+  "createdAt": "2026-02-16T20:39:40.723776Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Gang Over Luv",
+      "artist": "Brent Faiyaz",
+      "has_synced": true,
+      "path": "select/01_Gang_Over_Luv_Brent_Faiyaz.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Gang Over Luv",
+      "artist": "Brent Faiyaz",
+      "has_synced": true,
+      "path": "select/02_Gang_Over_Luv_Brent_Faiyaz.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Gang Over Luv (Paused)",
+      "artist": "Brent Faiyaz",
+      "has_synced": true,
+      "path": "select/03_Gang_Over_Luv_(Paused)_Brent_Faiyaz.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Gang Over Everything (Feat. Metro Boomin)",
+      "artist": "21 Savage",
+      "has_synced": true,
+      "path": "select/04_Gang_Over_Everything_(Feat._Metro_Boomin)_21_Savage.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Gang Over Everything",
+      "artist": "21 Savage & Metro Boomin",
+      "has_synced": true,
+      "path": "select/05_Gang_Over_Everything_21_Savage_&_Metro_Boomin.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "GANG OVER EVERYTHING",
+      "artist": "21 Savage",
+      "has_synced": true,
+      "path": "select/06_GANG_OVER_EVERYTHING_21_Savage.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Gang Over Luv",
+      "artist": "Brent Faiyaz",
+      "has_synced": false,
+      "path": "select/pl_01_Gang_Over_Luv_Brent_Faiyaz.txt"
+    }
+  ]
+}
