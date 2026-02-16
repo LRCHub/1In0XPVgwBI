@@ -1,0 +1,54 @@
+# Brent Faiyaz – Gang Over Luv
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:10.52] I was hella broke then
+[00:13.69] I ain't have a dime
+[00:16.63] But I was always focused
+[00:19.32] I ain't waste no time
+[00:29.82] 
+[00:22.47] I ain't have a car in my name
+[00:25.09] I used to walk to work every day
+[00:27.70] Me and my dog, back in the night I came out alright
+[00:53.20] 
+[00:34.21] All the homies, we came up the same way
+[00:38.43] And I swear ain't nothing change
+[00:41.02] Got a little bit of change in my pocket, but I maintain
+[00:45.00] We were young and in this world chasing dreams and girls
+[00:49.49] Running from our problems
+[00:51.66] I know that we older now, but that's what we were all about
+[01:21.16] 
+[00:57.66] I remember we were young
+[01:00.44] Young and dumb
+[01:03.21] Some niggas in a rush
+[01:13.71] 
+[01:08.87] I remember we were young
+[01:11.91] Young and dumb
+[01:14.42] I remember it was gang over love
+[01:17.95] That was us
+[01:23.45] 
+[01:44.14] I remember we would cut class
+[01:47.11] My teachers used to hate me
+[01:50.05] The only reason that I did that was to keep from going crazy
+[01:55.88] I didn't give a damn 'bout my grades
+[01:58.93] That's probably why we failed the ninth grade
+[02:01.56] Me and my dogs
+[02:03.75] Like it or not, we came out okay
+[02:19.75] 
+[02:07.89] All the homies, we came up the same way
+[02:12.02] And I swear ain't nothing change
+[02:15.06] Way before I ever moved out the house and did the damn thing
+[02:18.87] We were young and in this world chasing dreams and girls
+[02:23.45] Running from our problems
+[02:25.36] And I know we're older now, but that's what we were all about
+[02:55.86] 
+[02:31.11] I remember we were young
+[02:33.77] Young and dumb
+[02:36.93] Some niggas in a rush
+[02:47.43] 
+[02:42.61] I remember we were young
+[02:46.07] Young and dumb
+[02:48.25] I remember it was gang over love
+[02:51.52] That was us
+```
